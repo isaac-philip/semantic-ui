@@ -13,3 +13,9 @@ and really liked Semantic UI with the eye candy rendering.
     1. css - semantic.css
     2. js -  semantic.js
           - jquery.js
+
+
+Examples are,
+    1. [Form basic](form/form.html)
+    2. [Dropdown](form/dropdown.html)
+    3. [Dropdown with Autocomplete](form/dropdown-autocomplete.html)
