@@ -1,4 +1,4 @@
-Direct utilization of Sencha in projects.
+Direct utilization of Semantic-UI in projects using snippets/code from this repo.
 
 Example ui with form/ calendar themes etc
 
@@ -9,7 +9,7 @@ For many years I used bootstrap until a year back i.e. around Q4 2017 when I wan
 and really liked Semantic UI with the eye candy rendering.
 
 
-1. Important files needed in every page for rendering Semantic-UI components.
+#### Important files needed in every page for rendering Semantic-UI components.
     1. css - semantic.css
     2. js -  semantic.js
           - jquery.js
